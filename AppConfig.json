@@ -1,0 +1,10 @@
+
+
+{
+    "appHome": "c:\\RFTScan",
+    "dataCollectorHome": "c:\\RFTScan\\HIPAADataCollector",
+    "dataHome": "c:\\RFTScan\\Data",
+    "dataFileTypes": ["ldf", "wdf", "sdf", "cdf", "hdf"]
+}
+
+

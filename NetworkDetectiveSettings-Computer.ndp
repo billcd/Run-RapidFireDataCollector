@@ -1,0 +1,23 @@
+# SDC START
+-internet
+-testports
+-testurls
+-wifi
+-policies
+-screensaver
+-usb
+-logins
+-nozip
+# -sdfbase
+# DATAFILE
+# SDDir is unreliable
+# -sdfdir
+# DATAFOLDER
+# SDC END
+
+# GUI START
+-scantype
+ldc,sdc
+hipaadeep
+# -skipspeedchecks
+# GUI END
